@@ -14,7 +14,4 @@ This repository contains my university programming assignments, DSA practice, an
 - Practice programming regularly.
 - Maintain a record of my DSA journey and progress.
 
----
 
-**Author:** Nirali Shah  
-**Course:** MCA
