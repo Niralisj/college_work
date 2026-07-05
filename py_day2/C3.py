@@ -1,5 +1,5 @@
-names = ["renil", "rishi", "suju", "mandip"]
-search = "riya"
+names = ["vidhi", "nirali", "prijal", "janvi"]
+search = "hetvi"
 
 ispresent = False
 for i in names:
