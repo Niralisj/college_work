@@ -1,5 +1,5 @@
-dictionary_book = ["renil", "banana", "dog", "table", "ephemeral", "fish", "monkey", "netherland"]
-word = "ephemeral"
+dictionary_book = ["penny", "banana", "dog", "table", "ephemeral", "fish", "monkey", "netherland"]
+word = "sheldon"
 
 left = 0
 right = len(dictionary_book) - 1
